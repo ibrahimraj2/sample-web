@@ -9,7 +9,7 @@ img{
 }
 
 div{
-      height: 800px;
+      height: 1800px;
       width: 900px;
       background: hsl(41, 98%, 45%);
       /* display: inline-block; */
@@ -24,6 +24,6 @@ h1{
       background: grey;
 }
 
-.ad{
-      text-align: center;
-}
+
+
+

@@ -14,7 +14,7 @@ div{
       background: hsl(41, 98%, 45%);
       /* display: inline-block; */
       margin: 0px auto;
-      text-align: center;
+      text-align: center;padding: 20px 0px;
 }
 
 h1{
@@ -24,3 +24,6 @@ h1{
       background: grey;
 }
 
+.ad{
+      text-align: center;
+}
